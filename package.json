@@ -1,0 +1,27 @@
+{
+  "name": "progress-service",
+  "version": "1.0.0",
+  "description": "Service to track my personal goals",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "start:dev": "nodemon .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsahluwalia9/progress-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hsahluwalia9/progress-service/issues"
+  },
+  "homepage": "https://github.com/hsahluwalia9/progress-service#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
