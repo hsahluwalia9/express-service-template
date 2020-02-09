@@ -1,7 +1,7 @@
 {
-  "name": "progress-service",
+  "name": "express-service-template",
   "version": "1.0.0",
-  "description": "Service to track my personal goals",
+  "description": "Express service template",
   "main": "src/index.js",
   "scripts": {
     "start": "node .",
